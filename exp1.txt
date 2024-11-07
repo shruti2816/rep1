@@ -1,1 +1,2 @@
-This is my first GitHub lab
+This is my first GitHub lab 
+this is a second file
